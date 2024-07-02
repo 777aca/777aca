@@ -7,7 +7,7 @@
 ```html
 <pre>
 吾志所向，一往无前。
-                                      -- JokerChor
+                                      --JokerChor
 </pre>
 ```
 
@@ -22,8 +22,6 @@
 - 😄 Pronouns: 777aca
 - ⚡ People who like fun.Fun fact: Watching movies and shoot.
 
-<br />
-<br />
 <br />
 
 **Languages:**

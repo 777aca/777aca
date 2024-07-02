@@ -1,6 +1,4 @@
-### Hi there, I’m [JokerChor](http://777aca.cn/) <img src="https://github.com/777aca/777aca/blob/master/wave.gif" width="25px">
-
-<img align='right' src="https://github.com/777aca/777aca/blob/master/code_night.gif" width="350" />
+### Hi there, I’m [JokerChor](http://777aca.cn/) <img src="https://github.com/777aca/777aca/blob/main/wave.gif" width="25px">
 
 <br />
 
@@ -16,6 +14,8 @@
 |   主&emsp;页   | <http://777aca.cn>  |
 | :------------: | :------------------ |
 | **邮&emsp;箱** | **aca777@yeah.net** |
+
+<img align='right' src="https://github.com/777aca/777aca/blob/main/code_night.gif" width="350" />
 
 <br />
 

@@ -4,23 +4,18 @@
 
 <br />
 
-```html
 <pre>
 吾志所向，一往无前。
-                                      --JokerChor
+                              --JokerChor
 </pre>
-```
 
 
 
 <br />
 
-- 🔭 I am currently working as a front-end developer.
-- 🌱 I’m currently learning Node, Next.
-- 💬 Ask me about Anything you want~
-- 📫 Reach me: aca777@yeah.net
-- 😄 Pronouns: 777aca
-- ⚡ People who like fun.Fun fact: Watching movies and shoot.
+|   主&emsp;页   | <http://777aca.cn>  |
+| :------------: | :------------------ |
+| **邮&emsp;箱** | **aca777@yeah.net** |
 
 <br />
 

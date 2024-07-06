@@ -15,8 +15,6 @@
 | :------------: | :------------------ |
 | **邮&emsp;箱** | **aca777@yeah.net** |
 
-<img align='right' src="https://github.com/777aca/777aca/blob/main/code_night.gif" width="350" />
-
 <br />
 
 **Languages:**

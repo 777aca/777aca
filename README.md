@@ -7,7 +7,7 @@
 吾志所向，一往无前。
                               --JokerChor
 </pre>
-  <img align="right"  src="https://github.com/777aca/777aca/blob/main/code.gif" />
+  <img align="right" height="100px" src="https://github.com/777aca/777aca/blob/main/code.gif" />
 </div>
 
 <br />

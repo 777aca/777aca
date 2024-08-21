@@ -2,23 +2,19 @@
 
 <br />
 
+<div>
 <pre>
 吾志所向，一往无前。
                               --JokerChor
 </pre>
-
-
+  <img align="right" height="150px" src="https://github.com/777aca/777aca/blob/main/code.gif" />
+</div>
 
 <br />
 
 |   主&emsp;页   | <http://777aca.cn>  |    
 | :------------: | :------------------ |
 | **邮&emsp;箱** | **cfm77777@163.com** |
-
-<br />
-<div>
-  <img align="right" height="150px" src="https://github.com/777aca/777aca/blob/main/code.gif" />
-</div>
 
 
 **Languages:**

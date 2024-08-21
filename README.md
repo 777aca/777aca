@@ -1,15 +1,10 @@
 ### Hi there, I’m [JokerChor](http://777aca.cn/) <img src="https://github.com/777aca/777aca/blob/main/wave.gif" width="25px">
 
 <br />
-
-<div>
 <pre>
 吾志所向，一往无前。
                               --JokerChor
 </pre>
-  <img align="right" height="100px" src="https://github.com/777aca/777aca/blob/main/code.gif" />
-</div>
-
 <br />
 
 |   主&emsp;页   | <http://777aca.cn>   |
@@ -40,13 +35,6 @@
 </div>
 <br />
 
-<table align="center">
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=777aca&theme=xcode&bg_color=FF000000&hide_border=true" />
-    </td>
-  </tr>
-</table>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/777aca/count.svg" />

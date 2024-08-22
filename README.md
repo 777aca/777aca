@@ -30,12 +30,5 @@
 **GitHub Stats:**
 
 <div>
-  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=777aca&show_icons=true&theme=transparent" />
   <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=777aca&layout=compact&langs_count=6&theme=transparent&hide=javascript,html,css" />
 </div>
-<br />
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/777aca/count.svg" />
-</p>

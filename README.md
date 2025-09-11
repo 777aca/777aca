@@ -21,8 +21,8 @@
 **Frameworks and Tools:**
 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=333)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=nextjs&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-000000?logo=Nuxt.js&logoColor=fff)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=Next.js&logoColor=fff)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=Nuxt.js&logoColor=fff)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=fff)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=Sass&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=fff)

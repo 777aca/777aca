@@ -24,8 +24,6 @@
 ![Claude](https://img.shields.io/badge/Claude-D97757?logo=Claude&logoColor=fff)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=Nuxt.js&logoColor=fff)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=fff)
-![Sass](https://img.shields.io/badge/Sass-CC6699?logo=Sass&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=fff)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20CODE-007ACC?logo=VisualStudioCode&logoColor=fff)
 
 **GitHub Stats:**

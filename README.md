@@ -22,9 +22,9 @@
 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=fff)
 ![Claude](https://img.shields.io/badge/Claude-D97757?logo=Claude&logoColor=fff)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=Nuxt.js&logoColor=fff)
+![Codex](https://img.shields.io/badge/Codex-000000?logo=OpenAi&logoColor=fff)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=Nuxt&logoColor=fff)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=fff)
-![Visual Studio Code](https://img.shields.io/badge/VS%20CODE-007ACC?logo=VisualStudioCode&logoColor=fff)
 
 **GitHub Stats:**
 

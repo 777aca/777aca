@@ -20,10 +20,10 @@
 
 **Frameworks and Tools:**
 
-![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=fff)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?logo=Claude&logoColor=fff)
 ![Codex](https://img.shields.io/badge/Codex-000000?logo=OpenAi&logoColor=fff)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=fff)
+![React.js](https://img.shields.io/badge/React.js-61DAFB?logo=React&logoColor=fff)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=Nuxt&logoColor=fff)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=fff)
 

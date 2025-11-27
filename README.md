@@ -8,11 +8,6 @@
                               --JokerChor
 </pre>
 <br />
-
-|   主&emsp;页   | <https://777aca.top>   |
-| :------------: | :------------------- |
-| **邮&emsp;箱** | **cfm7777777@gmail.com** |
-
 **Languages:**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=fff)

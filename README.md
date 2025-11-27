@@ -1,3 +1,4 @@
+<div align="center">
 ### Hi there, I’m [JokerChor](https://777aca.top/) <img src="https://github.com/777aca/777aca/blob/main/wave.gif" width="25px">
 
 <br />
@@ -34,3 +35,4 @@
 </div>
 
 ![Moe Counter](https://count.getloli.com/get/@777aca?theme=rule34)
+</div>

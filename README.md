@@ -2,12 +2,6 @@
 
 ### Hi there, I’m [JokerChor](https://777aca.top/) <img src="https://github.com/777aca/777aca/blob/main/wave.gif" width="25px">
 
-<br />
-<pre>
-用追马的时间去种草。
-                              --JokerChor
-</pre>
-<br />
 **Languages:**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=fff)

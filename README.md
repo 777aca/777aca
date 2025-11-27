@@ -1,5 +1,7 @@
 <div align="center">
 
+![Moe Counter](https://count.getloli.com/get/@777aca?theme=rule34)
+
 ### Hi there, I’m [JokerChor](https://777aca.top/) <img src="https://github.com/777aca/777aca/blob/main/wave.gif" width="25px">
 
 **Languages:**
@@ -24,5 +26,4 @@
   <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=777aca&layout=compact&langs_count=6&theme=transparent&hide=javascript,html,css" />
 </div>
 
-![Moe Counter](https://count.getloli.com/get/@777aca?theme=rule34)
 </div>

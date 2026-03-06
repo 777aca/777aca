@@ -2,7 +2,7 @@
 
 ![Moe Counter](https://count.getloli.com/get/@777aca?theme=rule34)
 
-### Hi there, I’m [JokerChor](https://777aca.top/) <img src="https://github.com/777aca/777aca/blob/main/wave.gif" width="25px">
+### Hi there, I’m [JokerChor](https://chor.me/) <img src="https://github.com/777aca/777aca/blob/main/wave.gif" width="25px">
 
 **Languages:**
 
